@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/onBoardingRoom.unity
+    guid: 2e8f9ff8e9da94bf1bcd6b77dc37f6eb
   m_configObjects: {}
